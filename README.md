@@ -2,9 +2,9 @@
 
 *   Se quiere crear una página web con las siguientes necesidades:
 
-*	- Crear productos.
-*	- Editar productos.
-*	- Eliminar productos.
+	- Crear productos.
+	- Editar productos.
+	- Eliminar productos.
 	- Listar productos.
 
 	** Producto:
