@@ -15,12 +15,8 @@
 
 Realizar una Api Rest para cubrir las necesidades de la página:
 
-##  Funcionalidades:
-
 *   Funcionalidades:
 	- La api debe realizar las operaciones requeridas por el punto 1
-
-##  Requerimientos:
 
 *   Requerimientos:
 	- .Net Core >= 2.0 o .Net Framework >= 4.6.1
